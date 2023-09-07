@@ -9,6 +9,7 @@
 
 ## Feature tags
 
+- gelf
 - java
 - log4j
 - maven
@@ -18,7 +19,7 @@
 ---
 
 ## Direct ancestors
-[- log4j](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
+[- gelf](https://github.com/AlexanderLapygin/log4j-starter/tree/main#readme)
 
 ---
 
