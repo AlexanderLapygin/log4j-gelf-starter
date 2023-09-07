@@ -10,6 +10,7 @@
 ## Feature tags
 
 - gelf
+- graylog
 - java
 - log4j
 - maven
