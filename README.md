@@ -4,13 +4,12 @@
     </a>
 </div> 
 
-# Log4j Starter
+# Log4j with GELF Appender Starter
 
 
 ## Feature tags
 
 - gelf
-- graylog
 - java
 - log4j
 - maven
